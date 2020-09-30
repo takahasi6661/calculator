@@ -7,4 +7,6 @@ if (c=='+') {
     alert(a-b)
 } else if(c=='*'){
     alert(a*b)
+} else if(c=='/'){
+    alert(a/b)
 }
